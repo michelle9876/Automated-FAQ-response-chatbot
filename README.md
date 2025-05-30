@@ -1,5 +1,7 @@
 # Automated-FAQ-response-chatbot
 A chatbot that answers questions based on Naver Smart Store FAQs using RAG (Retrieval-Augmented Generation)
+You can find code on "MASTER" branch!
+코드는 master 브랜치에서 확인 가능합니다! 
 
 **Demo Video:데모 영상**
 
